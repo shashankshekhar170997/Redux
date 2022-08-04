@@ -1,0 +1,2 @@
+Whenever we need to pass the data within the component,we use state but when we need to pass the data from one component to another component we need props.
+And redux will use props.
